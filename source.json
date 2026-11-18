@@ -7,8 +7,8 @@
   "apps": [
     {
       "name": "TLembro",
-      "bundleIdentifier": "com.cabralesousa.tlembro",
-      "developerName": "Cabral & Sousa",
+      "bundleIdentifier": "com.perre.tlembro",
+      "developerName": "Perrê",
       "subtitle": "Lembretes offline com Atividades ao Vivo",
       "localizedDescription": "Lembretes 100% offline com Atividades ao Vivo (Dynamic Island e tela bloqueada), notificações, listas de tarefas e integração com o Calendário do iPhone. Interface adaptativa com suporte total ao iPhone Duo (tela de capa e tela interna), busca nativa e cores personalizáveis por lembrete.",
       "iconURL": "https://raw.githubusercontent.com/Ricardinhosant/tlembro-altstore/main/icon.png",
